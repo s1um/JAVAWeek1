@@ -1,7 +1,5 @@
 package Exec;
 
-package Exec;
-
 import java.util.Scanner;
 
 public class Question13 {
