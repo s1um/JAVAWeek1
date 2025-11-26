@@ -7,6 +7,9 @@ import java.util.Comparator;
 
 public class VendingMachine {
 
+    //수정
+
+
     // ===================== Drink 클래스 =====================
     public static class Drink {
         private String name;
