@@ -11,5 +11,6 @@ public class ConstantTest {
         FREEZING_POINT = 10;  // 이 코드는 컴파일 오류를 발생시킵니다.
 
         System.out.println("Freezing point of water: " + FREEZING_POINT);
+	// 테스트
     }
 }
