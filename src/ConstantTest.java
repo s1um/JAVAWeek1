@@ -1,5 +1,6 @@
 public class ConstantTest {
     public static void main(String[] args) {
+//수정 ㅋㅋ
         int temperature = 20;  // 변수 선언 및 초기화
         int FREEZING_POINT = 0;  // 상수 선언 및 초기화
 
