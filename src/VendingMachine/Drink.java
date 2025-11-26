@@ -5,6 +5,7 @@ public class Drink {
     private int price;
     private int stock;
 
+    //수정
     public Drink(String name, int price, int stock) {
         this.name = name;
         this.price = price;

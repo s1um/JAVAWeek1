@@ -6,6 +6,10 @@ import java.util.Collections;
 public class ArrayListExample {
     public static void main(String[] args) {
         // ArrayList 생성
+
+
+
+
         ArrayList<String> list = new ArrayList<>();
         list.add("Apple");
         list.add("Banana");

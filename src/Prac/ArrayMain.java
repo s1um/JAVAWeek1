@@ -5,6 +5,9 @@ public class ArrayMain {
         int[] number = new int[5];
         int[] numbers = {10, 20, 30, 40, 50}; // 배열 초기화
 
+
+        ahffk
+                \
         System.out.println(numbers.length);
         System.out.println(numbers.length);
 
