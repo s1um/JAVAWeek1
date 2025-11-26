@@ -12,5 +12,6 @@ public class ConstantTest {
 
         System.out.println("Freezing point of water: " + FREEZING_POINT);
 	// 테스트
+        // 가나다라
     }
 }
